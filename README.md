@@ -1,4 +1,4 @@
-# [Név]
+# [Fekete Edina]
 
 ## Hogyan kezdj neki?
 
