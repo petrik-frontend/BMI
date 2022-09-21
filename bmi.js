@@ -6,7 +6,7 @@ function katt() {
 function szamol() {
     let magasag = parseFloat(document.getElementById('magasag').value);
     let suly = parseFloat(document.getElementById('suly').value);
-    dokument.getElementById('ereddmeny').value = suly / (magasag / 100) ** 2;
+    document.getElementById('eredmeny').value = suly / (magasag / 100) ** 2;
 
 }
 
